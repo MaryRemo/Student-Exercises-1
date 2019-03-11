@@ -1,0 +1,11 @@
+/Users/maryremo/nss/csharp/exercises/StudentExercises/bin/Debug/netcoreapp2.2/StudentExercises.deps.json
+/Users/maryremo/nss/csharp/exercises/StudentExercises/bin/Debug/netcoreapp2.2/StudentExercises.runtimeconfig.json
+/Users/maryremo/nss/csharp/exercises/StudentExercises/bin/Debug/netcoreapp2.2/StudentExercises.runtimeconfig.dev.json
+/Users/maryremo/nss/csharp/exercises/StudentExercises/bin/Debug/netcoreapp2.2/StudentExercises.dll
+/Users/maryremo/nss/csharp/exercises/StudentExercises/bin/Debug/netcoreapp2.2/StudentExercises.pdb
+/Users/maryremo/nss/csharp/exercises/StudentExercises/obj/Debug/netcoreapp2.2/StudentExercises.csprojAssemblyReference.cache
+/Users/maryremo/nss/csharp/exercises/StudentExercises/obj/Debug/netcoreapp2.2/StudentExercises.csproj.CoreCompileInputs.cache
+/Users/maryremo/nss/csharp/exercises/StudentExercises/obj/Debug/netcoreapp2.2/StudentExercises.AssemblyInfoInputs.cache
+/Users/maryremo/nss/csharp/exercises/StudentExercises/obj/Debug/netcoreapp2.2/StudentExercises.AssemblyInfo.cs
+/Users/maryremo/nss/csharp/exercises/StudentExercises/obj/Debug/netcoreapp2.2/StudentExercises.dll
+/Users/maryremo/nss/csharp/exercises/StudentExercises/obj/Debug/netcoreapp2.2/StudentExercises.pdb
