@@ -15,6 +15,7 @@ namespace StudentExercises
             student.Exercises.Add(exercise);
             Console.WriteLine($"{FirstName} assigned {exercise.Name} to {student.FirstName}");
         }
+        
     }
 
 }
