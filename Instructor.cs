@@ -5,6 +5,13 @@ namespace StudentExercises
 {
    public class Instructor
     {
+           public Instructor(string firstName, string lastName, string slackHandle, string cohortNumber) {
+            FirstName = firstName;
+           LastName = lastName;
+           SlackHandle = slackHandle;
+           CohortNumber = CohortNumber;
+
+        }
         public string FirstName { get; set;}
         public string LastName { get; set;}
         public string SlackHandle { get; set;}
